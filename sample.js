@@ -1,2 +1,2 @@
 console.log("sample.js");
-console.log("fourth git testingin sample.");
+console.log("First git testingin sample.");
