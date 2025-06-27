@@ -1,2 +1,3 @@
 console.log("change being added.");
-console.log("Forgot to add in first commit");
+console.log("12");
+console.log("conneted to github");

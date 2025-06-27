@@ -1,2 +1,3 @@
 console.log("sample.js");
-console.log("First git testingin sample.");
+console.log("12");
+console.log("conneted to github");
